@@ -4,9 +4,9 @@
 
 - Jashanpreet Singh
 - Janek Basi
-- Priyannshu Batra
+- Priyanshu Batra
 
-## Domain - TBD
+## Domain D - Tariff & trade disruption
 
 ## Devs
 
