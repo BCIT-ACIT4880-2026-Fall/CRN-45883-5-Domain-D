@@ -1,1 +1,6 @@
 pull_census_enduse.py
+data/raw/*.csv
+data/raw/*.xlsx
+data/raw/*.json
+data/raw/*.xls
+data/raw/*.zip
