@@ -1,7 +1,43 @@
-Pulled at: 2026-10-13T09:27:39 (local time)
+Pulled at: 2026-10-13T09:58:12 (local time)
 Endpoint: https://api.census.gov/data/timeseries/intltrade/imports/enduse
 Params per month: get=CTY_CODE,CTY_NAME,I_ENDUSE,I_ENDUSE_LDESC,GEN_VAL_MO,CON_VAL_MO,DUT_VAL_MO,CAL_DUT_MO,AIR_VAL_MO,VES_VAL_MO,CNT_VAL_MO,AIR_WGT_MO,VES_WGT_MO,SUMMARY_LVL,LAST_UPDATE&COMM_LVL=EU5&time=<YYYY-MM>&key=<redacted>
-Months: 2025-01 to 2026-07
+Months: 2022-01 to 2026-07
+2022-01: 12360 rows
+2022-02: 13670 rows
+2022-03: 14635 rows
+2022-04: 15280 rows
+2022-05: 15839 rows
+2022-06: 16305 rows
+2022-07: 16675 rows
+2022-08: 17035 rows
+2022-09: 17349 rows
+2022-10: 17642 rows
+2022-11: 17885 rows
+2022-12: 18114 rows
+2023-01: 12395 rows
+2023-02: 13652 rows
+2023-03: 14577 rows
+2023-04: 15205 rows
+2023-05: 15769 rows
+2023-06: 16192 rows
+2023-07: 16577 rows
+2023-08: 16942 rows
+2023-09: 17211 rows
+2023-10: 17465 rows
+2023-11: 17705 rows
+2023-12: 17924 rows
+2024-01: 12387 rows
+2024-02: 13719 rows
+2024-03: 14586 rows
+2024-04: 15242 rows
+2024-05: 15728 rows
+2024-06: 16164 rows
+2024-07: 16533 rows
+2024-08: 16868 rows
+2024-09: 17113 rows
+2024-10: 17396 rows
+2024-11: 17630 rows
+2024-12: 17851 rows
 2025-01: 12409 rows
 2025-02: 13671 rows
 2025-03: 14471 rows
@@ -21,4 +57,4 @@ Months: 2025-01 to 2026-07
 2026-05: 15546 rows
 2026-06: 15955 rows
 2026-07: 16279 rows
-TOTAL rows: 290562
+TOTAL rows: 866182
